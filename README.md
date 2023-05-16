@@ -2,6 +2,8 @@
 
 Este repositório é uma atividade da Pós Graduação na Descomplica no qual se trata de uma página de carrinho de compras, desenvolvida utilizando Bootstrap e manipulação do DOM com JavaScript. O objetivo deste projeto é demonstrar a manipulação dinâmica do DOM em um template pré-existente do Bootstrap.
 
+Link: https://azeveddo.github.io/shopping-bag-project/
+
 ![GIF](gif-readme.gif)
 
 
