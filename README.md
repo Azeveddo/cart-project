@@ -1,8 +1,9 @@
 # Página de Carrinho de Compras
 
+Este repositório é uma atividade da Pós Graduação na Descomplica no qual se trata de uma página de carrinho de compras, desenvolvida utilizando Bootstrap e manipulação do DOM com JavaScript. O objetivo deste projeto é demonstrar a manipulação dinâmica do DOM em um template pré-existente do Bootstrap.
+
 ![GIF](gif-readme.gif)
 
-Este repositório é uma atividade da Pós Graduação na Descomplica no qual se trata de uma página de carrinho de compras, desenvolvida utilizando Bootstrap e manipulação do DOM com JavaScript. O objetivo deste projeto é demonstrar a manipulação dinâmica do DOM em um template pré-existente do Bootstrap.
 
 ## Funcionalidades
 
